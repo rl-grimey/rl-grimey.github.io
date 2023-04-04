@@ -1,0 +1,4 @@
+# Only allow robots to access public facing content
+User-agent: *
+Disallow: /
+Allow: /public/
